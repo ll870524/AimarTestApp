@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"高莹手速,真不是盖的!");
-    
+    NSLog(@"%@",@"https://github.com/ll870524/AimarTestApp.git");
 }
 
 - (void)didReceiveMemoryWarning {
