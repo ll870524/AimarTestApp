@@ -19,6 +19,8 @@
     
     NSLog(@"高莹手速,真不是盖的!");
     NSLog(@"%@",@"https://github.com/ll870524/AimarTestApp.git");
+    
+    NSLog(@"111312314343423");
 }
 
 - (void)didReceiveMemoryWarning {
